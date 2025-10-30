@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Git
+.git/
+.gitignore
+
+# Temporary files
+temp_input.csv
+temp_*.csv
+*.tmp
+*.log
+
+# Test files
+test_*.py
+verify_*.py
+explain_*.py
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Documentation (optional)
+# *.md
+
+# Docker files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Output samples (optional - include if you want them in the image)
+# output_btp_mtp_allocation.csv
+# fac_preference_count.csv

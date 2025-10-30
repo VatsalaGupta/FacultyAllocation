@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+temp_input.csv
+temp_*.csv
+*.tmp
+*.log
+
+# Output files (optional - uncomment if you don't want to track outputs)
+# output_btp_mtp_allocation.csv
+# fac_preference_count.csv
+
+# Test files
+test_*.py
+verify_*.py
+explain_*.py
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+
+# Documentation build
+docs/_build/
